@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://example.com/</loc></url><url><loc>https://example.com/articles/dog-train-korea.html</loc></url><url><loc>https://example.com/articles/dog-bus-checklist.html</loc></url><url><loc>https://example.com/articles/dog-car-trip.html</loc></url><url><loc>https://example.com/articles/pet-carrier-guide.html</loc></url><url><loc>https://example.com/articles/dog-cafe-etiquette.html</loc></url><url><loc>https://example.com/articles/dog-trip-packing.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://mungroad.kr/</loc></url>
+  <url><loc>https://mungroad.kr/articles/dog-train-korea.html</loc></url>
+  <url><loc>https://mungroad.kr/articles/dog-bus-checklist.html</loc></url>
+  <url><loc>https://mungroad.kr/articles/dog-car-trip.html</loc></url>
+  <url><loc>https://mungroad.kr/articles/pet-carrier-guide.html</loc></url>
+  <url><loc>https://mungroad.kr/articles/dog-cafe-etiquette.html</loc></url>
+  <url><loc>https://mungroad.kr/articles/dog-trip-packing.html</loc></url>
+</urlset>
